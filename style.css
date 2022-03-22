@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+ font-family: 'Raleway', sans-serif;
+}
+
+
+h1 {
+	text-transform: capitalize;
+	font-size: 37px;
+ text-align: center;
+ margin-top: 0.5em;
+}
+
+p{
+ text-transform: capitalize;
+}
